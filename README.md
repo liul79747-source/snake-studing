@@ -10,5 +10,5 @@
 
 ## 🚀 在线游玩
 
-👉 [点击这里开始游戏](https://github.com/liul79747-source/desktop-tutorial.git)
+👉 [点击这里开始游戏](https://liul79747-source.github.io/snake-studing/)
 
